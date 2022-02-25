@@ -1,6 +1,6 @@
-- 👋 Hey hey~, I’m @thatladycocoa
+- 👋 Hey hey~, I’m @primalsia
 - 👀 I’m interested in honing my programming skills!
-- 🌱 I’m currently learning Java, Html5, and CSS
+- 🌱 I’m currently learning Java, Html5, CSS, and JavaScript
 - 📫 You can network with me here: linkedin.com/in/aziahblanding/
 
 <!---
