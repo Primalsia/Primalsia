@@ -1,7 +1,7 @@
 <p align="center"><img src=https://github.com/Primalsia/Primalsia/blob/main/aziahsbanner1.jpg alt="Aziah's Banner"></p>
 
-<h1 align="center">Hey nakama~👋 I'm Aziah 'Asia' Blanding,</h1>
-<h3 align="center">A passionate and intuitive front-end developer from South Carolina!</h3>
+<h1 align="center">Hey nakama~👋 I'm Aziah 'Asia' Blanding</h1>
+<h3 align="center">A passionate and intuitive front-end developer!</h3>
 
 <!--Break-->
 <p align="center">Coding was always a shadowed dream in the back of my mind, and once I realized that dream could be a reality, it became clear to me that this is my passion. When I'm away from the screen, weightlifting, catching up on anime, or even exploring cities and trying out the best food spots, I'm constantly thinking of different ways I can solve coding problems and improve user interactivity! I am open to new clients, opportunities and networking.</p>
@@ -25,7 +25,7 @@
 <tr>
   <td width="50%" valign="top">
     <h3 align="center">One Piece Character Selector</h3>
-    <div align="center"><a href='https://onepiecebattleselector.netlify.app/'><img src="https://github.com/Primalsia/Primalsia/blob/main/screen-capture.gif" alt="One-Piece Interactive" height="184px" width="400px"/></a>
+    <div align="center"><a href='https://onepiecebattleselector.netlify.app/'><img src="https://github.com/Primalsia/Primalsia/blob/main/screen-capture.gif" alt="One-Piece Interactive" height="300px" width="600px"/></a>
       <br>
       <p><strong>HTML, CSS, JavaScript</strong> - Interactive JavaScript application using gifs. Choose which One Piece Character will fight against Doflamingo!</p>
       <br>
@@ -33,7 +33,7 @@
       <!--2nd Project-->
   <td width="50%" valign="top">
     <h3 align="center">Got Cocktail?</h3>
-    <div align="center"><a href='https://primalsia.github.io/GotCocktail.github.io/'><img src="https://github.com/Primalsia/Primalsia/blob/main/gotcocktail.gif" alt="Cocktail Recipes" height="184px" width="400px"/></a>
+    <div align="center"><a href='https://primalsia.github.io/GotCocktail.github.io/'><img src="https://github.com/Primalsia/Primalsia/blob/main/gotcocktail.gif" alt="Cocktail Recipes"/></a>
       <br>
       <p><strong>HTML, CSS, JavaScript</strong> - Interactive JavaScript application using Cocktail database API. Get Your Cocktail On!</p><br>
       <br>
