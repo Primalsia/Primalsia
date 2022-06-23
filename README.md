@@ -4,7 +4,7 @@
 <h3 align="center">A passionate and intuitive front-end developer!</h3>
 
 <!--Break-->
-<p align="center">Coding was always a shadowed dream in the back of my mind, and once I realized that dream could be a reality, it became clear to me that this is my passion. When I'm away from the screen, weightlifting, catching up on anime, or even exploring cities and trying out the best food spots, I'm constantly thinking of different ways I can solve coding problems and improve user interactivity! I am open to new clients, opportunities and networking.</p>
+<p align="center">Coding was always a shadowed dream in the back of my mind, and once I realized that dream could be my reality, it became clear to me that this is my passion. When I'm away from the screen, weightlifting, catching up on anime, or even exploring cities and trying out the best food spots, I'm constantly thinking of different ways I can solve coding problems and improve user interactivity! I am open to new clients, opportunities and networking.</p>
 
 <!--Connect w/Me -->
 <h3 align="center">Let's Connect!</h3>
