@@ -16,7 +16,7 @@
 
 <!--Support-->
 <h3 align="center">Want to Show Support?</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/shadesofaziah"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shadesofaziah" /></a></p><br>
+<p align="center"><a href="https://www.buymeacoffee.com/shadesofaziah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p><br>
 
 <!-- Future Projects Here -->
 <h2 align="center">Highlighted Projects</h2>
