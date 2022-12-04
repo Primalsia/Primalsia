@@ -1,7 +1,6 @@
 <p align="center"><img src=https://github.com/Primalsia/Primalsia/blob/main/aziahsbanner1.jpg alt="Aziah's Banner"></p>
 
-<h1 align="center">Hey nakama~👋 I'm Aziah 'Asia' Blanding</h1>
-<h3 align="center">A passionate and intuitive Applications Developer and IT Professional!</h3>
+<h1 align="center">Hey nakama~ 👋🏾 I'm Aziah 'Asia', Applications Developer and IT Professional!</h1>
 
 <!--Break-->
 <p align="center">Once I realized my dreams could become my reality, it became clear to me that I could achieve anything I set my mind to. When I'm away from the screen catching up on anime, traveling and exploring new places, or even weightlifting, I'm whipping up different ways I can improve user interactivity and create a positive impact! I am always open to new clients, opportunities and networking.</p>
@@ -17,6 +16,16 @@
 <!--Support-->
 <h3 align="center">Want to Show Support?</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/shadesofaziah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p><br>
+
+<!--IT Projects-->
+<h2>👩🏾‍💻 Information Technology Projects</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+   - [osTicket: Ticket Lifecycle Examples](https://github.com/Primalsia/osticket-resolution)
+- <b>Microsoft Azure</b>
+   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Primalsia/adop-configuration)
+- <b>Salesforce</b>
+   - [Exploring Salesforce and Creating Lighning Applications](https://github.com/Primalsia/salesforce-projectmanagement)
 
 <!-- Future Projects Here -->
 <h2 align="center">Highlighted Projects</h2>
