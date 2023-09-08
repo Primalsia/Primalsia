@@ -1,7 +1,7 @@
 <p align="center"><img src=https://github.com/Primalsia/Primalsia/blob/main/aziahsbanner1.jpg alt="Aziah's Banner"></p>
 
 <h1 align="center">Hey nakama! 👋🏾 I'm Aziah ('Asia'),
-   <br>Applications Developer and IT Professional!</h1>
+   <br>Software Engineer!</h1>
 
 <!--Break-->
 <p align="center">Once I realized my dreams could become my reality, it became clear to me that I could achieve anything I set my mind to. When I'm away from the screen catching up on anime, traveling and exploring new places, or even weightlifting, I'm whipping up different ways I can improve user interactivity and create a positive impact! I am always open to new clients, opportunities and networking.</p>
