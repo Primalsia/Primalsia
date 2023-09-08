@@ -10,8 +10,7 @@
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
 <a href="https://twitter.com/shadesofaziah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadesofaziah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aziahblanding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aziahblanding/" height="30" width="40" /></a>
-<a href="https://instagram.com/shadesofaziah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadesofaziah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aziahblanding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/aziahblanding/](https://www.linkedin.com/in/aziahblanding/)" height="30" width="40" /></a>
 <a href="https://discord.gg/OrigamiElf#6739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="OrigamiElf#6739" height="30" width="40" /></a></p>
 
 <!--Support-->
